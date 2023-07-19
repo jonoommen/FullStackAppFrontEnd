@@ -24,6 +24,9 @@ export default function Navbar() {
           <Link className="btn btn-outline-light" to="/adduser">
             Add User
           </Link>
+          <Link className="btn btn-outline-light" to="/addstudent">
+            Add Student
+          </Link>
         </div>
       </nav>
     </div>
